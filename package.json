@@ -27,7 +27,7 @@
         "vue-qrcode-reader": "^2.1.0",
         "vue-scrollto": "^2.15.0",
         "vuelidate": "^0.7.4",
-        "vuetify": "^2.1.13",
+        "vuetify": "^2.6.10",
         "vuex-search": "^2.2.5",
         "xlsx": "^0.15.1"
     },
